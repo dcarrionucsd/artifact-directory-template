@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Causal Analysis of Instantaneous and Time-Delayed Relations in the Earth System>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<The goal of this study is to find causal relations in time series data within the earth system, as an alternative to demanding physical simulation models which are the current norm. This will be accomplished through the analysis of several variables with a focus on man-made ones, namely global temperature, gas emissions, electricity generation, and more. One of the methods used to detect causal relation is through neural networks, which looks for time-delayed relations. The second method used was Structural Causal Models, where we first learned instantaneous causal relations within the data, and then applied an Additive Noise Model to search for directed relations. We are also able to combine the two methods, to search for both instantaneous and time-delayed causal relations. Through these three methods, we were able to create three different causal models and present causal relations between the features within our data.>
